@@ -1,4 +1,7 @@
-## Hi there 👋
+## hi.
+   I find myself here on a chilly friday night, trying to make sense of the interface.
+
+   I was introduced to the concept of competitive programming a few days ago and needless to say, my interest was piqued. I figured I should learn how to program though, first.
 
 <!--
 **rhbhz/rhbhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
